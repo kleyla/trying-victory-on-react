@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/trying-victory-on-react/static/css/main.aa3538db.chunk.css",
+    "main.js": "/trying-victory-on-react/static/js/main.df47c828.chunk.js",
+    "main.js.map": "/trying-victory-on-react/static/js/main.df47c828.chunk.js.map",
+    "runtime-main.js": "/trying-victory-on-react/static/js/runtime-main.d38f3fbd.js",
+    "runtime-main.js.map": "/trying-victory-on-react/static/js/runtime-main.d38f3fbd.js.map",
+    "static/js/2.34bbec61.chunk.js": "/trying-victory-on-react/static/js/2.34bbec61.chunk.js",
+    "static/js/2.34bbec61.chunk.js.map": "/trying-victory-on-react/static/js/2.34bbec61.chunk.js.map",
+    "index.html": "/trying-victory-on-react/index.html",
+    "static/css/main.aa3538db.chunk.css.map": "/trying-victory-on-react/static/css/main.aa3538db.chunk.css.map",
+    "static/js/2.34bbec61.chunk.js.LICENSE.txt": "/trying-victory-on-react/static/js/2.34bbec61.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d38f3fbd.js",
+    "static/js/2.34bbec61.chunk.js",
+    "static/css/main.aa3538db.chunk.css",
+    "static/js/main.df47c828.chunk.js"
+  ]
+}
